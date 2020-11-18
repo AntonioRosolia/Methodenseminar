@@ -1,3 +1,3 @@
-# Methodenseminar RNNs fur Zeitreihenvorhersagen
+# Methodenseminar 27.11.2020: RNNs fur Zeitreihenvorhersagen
 
 Zeitreihen sind ein häufiger Datentyp, der in vielen Bereiche und Anwendungen wie Finanzwesen, Gesundheitsüberwachung oder in Predictive Maintenance vorkommt. Die grundlegende Idee hinter Vorhersagen besteht darin, Informationen, die in den Zeitreihen enthalten sind, zu extrahieren und diese zur Abschätzung des nächsten Wertes zu verwenden.  In den letzten Jahren sind Recurrent Neural Netowrks (RNN) zu populären Prognosemethoden geworden, aufgrund von ihrer Möglichkeit langfristigen Abhängigkeiten zu erlernen. In diesem Vortrag wird die Theorie für solche RNNs  für Zeitreihenvorhersagen vorgestellt. Anschliessend werden diese in einem Praxisbeispiel demonstriert und mit anderen Modellen verglichen.
